@@ -8,7 +8,7 @@ Website landing page resmi **SMK Budi Bakti Ciwidey** sebagai media promosi digi
 
 ## 🌐 Live Demo
 
-👉 [smk-budi-bakti.github.io]((https://github.com/gerkhopp-rgb/spmb-proyek.git))
+👉 [smk-budi-bakti.github.io](https://github.com/gerkhopp-rgb/spmb-proyek.git)
 
 ---
 
